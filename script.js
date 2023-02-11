@@ -5,7 +5,7 @@ let subStr = 'substração';
 let multStr = 'multiplicação';
 let divStr = 'divisão';
 
-// Evitando Sensitive case.
+// Evitando Sensitive case na escrita do usuario.
 let AdStr = 'Adição';
 let SubStr = 'Substração';
 let MultStr = 'Multiplicação';
